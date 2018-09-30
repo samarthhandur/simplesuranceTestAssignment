@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.simplesurance.tests.CertificateListTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-09-30T02:42:54" hostname="RINMAC182" time="7.625">
+  <properties/>
+  <testcase name="testCaseID016_ValidateCertificateListHeader" classname="com.simplesurance.tests.CertificateListTest" time="3.001"/>
+  <testcase name="testCaseID017_ValidateCertificateListSearchValidID" classname="com.simplesurance.tests.CertificateListTest" time="1.531"/>
+  <testcase name="testCaseID018_ValidateCertificateListSearchINValidID" classname="com.simplesurance.tests.CertificateListTest" time="0.73"/>
+  <testcase name="testCaseID019_ValidateCertificateListSearchINValidEmail" classname="com.simplesurance.tests.CertificateListTest" time="1.327"/>
+  <testcase name="testCaseID019_ValidateCertificateListSearchValidEmail" classname="com.simplesurance.tests.CertificateListTest" time="1.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
