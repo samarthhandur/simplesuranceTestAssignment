@@ -90,3 +90,14 @@ Please find below google drive link for test screen recording
 
 https://drive.google.com/file/d/1zTQRY9eQVR2jX3KTJylrauIZObEXr8Vw/view?usp=sharing
 
+
+## UI/UX issues and observations
+
+1. Language changes automatically to default one (Deutsch), on page refresh /redirection from payment gateway to partner portal eventhough English was set.
+2. No message shown when user has nothing in his account in Dashboard page.
+3. Certificate pdf is always in Deutsch language despite of any language you select.
+4. No option to manage/modify Subagent entries inside Create Subagent page.
+5. Logout button text is in English ("Logout") if language is set to German.
+6. Download certificate button takes ~ 50 secs once payment is successful. 
+
+
