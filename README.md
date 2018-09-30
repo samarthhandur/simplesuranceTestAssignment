@@ -75,6 +75,8 @@ gradle -Dtest.single=TestSuite clean test
 #### Test Reports
 
 ```
+<img width="1210" alt="screen shot 2018-09-30 at 9 28 08 am" src="https://user-images.githubusercontent.com/14192186/46254099-9f89f080-c4a7-11e8-9843-6918954b6c55.png">
+
 Please find test report under below path 
 
 build/html/index.html
